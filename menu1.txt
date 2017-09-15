@@ -1,0 +1,20 @@
+----------------------------------------------------
+	1. Starters
+	2. Main Courses
+	3. Icecreams
+ 1. Starters:				       Rate
+			1.tomato soup		80
+			2.Corn Soup		85
+			3.veg manchuria		90
+			4.aloo tikka		95
+ 2. Main Courses:
+			1.Veg fried rice	125
+			2.Veg Biryani		15
+			3.paneer masala		100
+			4.Mushrom cury		110
+ 3. Ice Creams:
+			1.vanilla		80
+			2.ButterScotch		10
+			3.Strawberry		90
+			4.Chocolate		110
+----------------------------------------------------
